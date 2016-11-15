@@ -1,8 +1,16 @@
-body {
+.header {
+  font-family: "Trebuchet MS"; 
+}
+
+.nav {
   font-family: "Lucida Console"; 
 }
 
-.header ul {
+.main {
+  font-family: "Lucida Console"; 
+}
+
+.nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -10,11 +18,11 @@ body {
   background-color: #333;
 }
 
-.header li {
+.nav li {
   float: left;
 }
 
-.header li a {
+.nav li a {
   display: block;
   color: white;
   text-align: center;
@@ -22,7 +30,7 @@ body {
   text-decoration: none;
 }
   
-.header li a:hover {
+.nav li a:hover {
   background-color: #111;
 }
 
