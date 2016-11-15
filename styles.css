@@ -1,3 +1,10 @@
+body {
+  background-image: url("the-three-gorges-788285_1920.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: transparent;
+}
+
 .header {
   font-family: "Trebuchet MS"; 
 }
@@ -7,7 +14,7 @@
 }
 
 .main {
-  font-family: "Lucida Console"; 
+  font-family: "Trebuchet MS"; 
 }
 
 .nav ul {
