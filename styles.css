@@ -61,11 +61,16 @@ body {
 
 .footer li a {
   display: block;
+  color: black;
   text-align: center;
-  padding: 7px;
+  padding: 7px 8px;
   text-decoration: none;
 }
 
 .footer p {
   float: center; 
+}
+
+.footer p a {
+  color: black; 
 }
