@@ -56,7 +56,7 @@ body {
 }
 
 .footer li {
-  float: center; 
+  float: left; 
 }
 
 .footer li a {
@@ -68,9 +68,10 @@ body {
 }
 
 .footer p {
-  float: center; 
+  float: left; 
 }
 
 .footer p a {
+  text-decoration: none;
   color: black; 
 }
