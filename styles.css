@@ -68,6 +68,7 @@ body {
 }
 
 .footer p {
+  display: block;
   float: left; 
 }
 
